@@ -103,10 +103,3 @@ Alongside product work, I conduct research in **reinforcement learning for cyber
 - LinkedIn: https://www.linkedin.com/in/assem-bensalah  
 
 ---
-
-## Pinned repositories
-
-I pin repositories that best represent:
-- system design decisions,
-- research-to-production transitions,
-- and maintainable, real-world codebases.
