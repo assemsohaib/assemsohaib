@@ -1,7 +1,7 @@
 # Assem Sohaib Bensalah
 
 **AI Engineer & Founding Product Architect**  
-PhD Candidate in Reinforcement Learning for Cyber-Physical Systems
+PhD in Computer Science (Reinforcement Learning for Security of Cyber-Physical Systems)
 
 ---
 
