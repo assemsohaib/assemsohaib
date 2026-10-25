@@ -1,105 +1,41 @@
 # Assem Sohaib Bensalah
 
-**AI Engineer & Founding Product Architect**  
-PhD in Computer Science (Reinforcement Learning for Security of Cyber-Physical Systems)
+AI engineer building tool-using agents, evaluation systems, and RAG products, from research prototypes to production software.
+PhD in Computer Science: reinforcement learning for the security of cyber-physical systems.
 
----
+[Website](https://assembensalah.com) · [LinkedIn](https://www.linkedin.com/in/assemsohaib) · [Google Scholar](https://scholar.google.com/citations?user=JK6PGQYAAAAJ) · [X](https://x.com/AssemBensalah)
 
-## About
+## Now
 
-I build **AI-native systems** that bridge reinforcement learning research and production-grade software.  
-My work focuses on **reproducibility, system design, and high-stakes decision-making environments**, where correctness, evaluation, and long-term maintainability matter.
+**[Ziritex](https://ziritex.com)**, Founding Product Architect (2025–present)
+A collaborative scientific writing platform. I design the agents that help researchers draft, revise, and refine documents, and the retrieval pipeline (document context, embeddings, semantic search) that grounds them.
+`TypeScript` `TanStack` `Convex` `Agent orchestration` `RAG`
 
-I’m particularly interested in turning **research-grade AI** into **robust, scalable products**.
+**[Rochemère Systems](https://rochemere.co)**, Founder and Product Architect (2024–present)
+A construction management platform that keeps project data in sync between site and office teams. I own the data model, UX, deployment, and observability.
+`Next.js` `TypeScript` `Supabase`
 
----
+## Before
 
-## Current focus
+- **[Verbly](https://getverbly.app)**, Founding AI / Mobile Engineer: an LLM voice tutor for language practice. I built the conversation state, prompts, and evaluations, with streaming ASR/TTS. `Expo` `TypeScript` `LLM APIs`
+- **AutopilotVA**, AI Engineer: multi-agent assistant workflows (CrewAI) that retrieved records and generated reports. `Python` `CrewAI`
+- **Metrolabs**, ML Engineer: a fine-tuned BERT spam detector shipped as a Google Workspace add-on. `PyTorch` `BERT`
 
-- AI-native collaboration tools for scientific and technical workflows  
-- Human–AI interaction patterns for complex authoring and decision-making tasks  
-- Reproducible experimentation pipelines for reinforcement learning systems  
+## Research
 
----
+Reinforcement learning for power-grid resilience at RELA(CS)². I trained PPO, TRPO, and A2C agents and evaluated a cascading-policy framework across 100 simulation scenarios.
 
-## Selected projects
+- Paper: [A cascading policy learning framework for enhancing power grid resilience](https://doi.org/10.7717/peerj-cs.3358) (PeerJ Computer Science)
+- Artifacts for reproduction: [osf.io/gcw7x](https://osf.io/gcw7x/)
 
-### Ziritex — AI-native collaborative writing platform  
-*Founding Product Architect*  
-🔗 Repo: *(private / in development)*
+## Toolbox
 
-- Architecting a real-time, AI-assisted collaborative platform for scientific and technical writing
-- Focus on structured documents, reactive data models, and human–AI co-authoring workflows
-- Emphasis on reproducible research artifacts and long-term maintainability  
-- Tech: TypeScript, TanStack, Convex / PostgreSQL
-
----
-
-### Verbly — AI-powered language learning app  
-*Founding Mobile Engineer*  
-🔗 Repo: *(private)*
-
-- Built an AI-driven conversational mobile app for spoken language proficiency
-- Owned the full product lifecycle: UX design, AI interaction patterns, subscriptions, and iteration
-- Refined features based on user feedback and engagement metrics  
-- Tech: React Native (Expo), TypeScript, GenAI APIs
-
----
-
-### BuildWisely — Construction project management system  
-*Founding Engineer*  
-🔗 Repo: *(maintenance mode)*
-
-- Designed a full-stack system for real-time project tracking and data synchronization
-- Focus on data consistency, scalability, and operational clarity across distributed sites  
-- Tech: Next.js, TypeScript, Supabase
-
----
-
-## Research & applied AI
-
-Alongside product work, I conduct research in **reinforcement learning for cyber-physical systems**, with applications to power grid resilience and security.
-
-- Published in *PeerJ Computer Science*
-- Focus on evaluation under adversarial and constrained environments
-- Open-source experimental artifacts available for reproducibility
-
-**Paper:** https://doi.org/10.7717/peerj-cs.3358  
-**Artifacts:** https://osf.io/gcw7x/
-
----
-
-## Technical focus
-
-**AI & Research**
-- Reinforcement Learning (PPO, TRPO, A2C)
-- Simulation-based evaluation & ablation studies
-- Reproducible experimentation pipelines
-
-**Systems & Product**
-- Distributed systems & data modeling
-- Cloud-native architectures (Google Cloud – Certified)
-- Production-first engineering and CI/CD
-
-**Stack**
-- Python, TypeScript, SQL
-- PyTorch, React, Next.js, TanStack, React Native
-- Docker, Git, Supabase, Convex, Grid2Op
-
----
+Python · TypeScript · SQL · PyTorch · Grid2Op · MLflow · Weights & Biases
+React · Next.js · TanStack · React Native · Convex · Supabase · Docker
+Google Cloud Associate Cloud Engineer
 
 ## How I work
 
-- I favor simple systems that scale over clever abstractions  
-- I care deeply about reproducibility and long-term maintainability  
-- I optimize for clarity — in code, data, and interfaces  
-
----
-
-## Contact
-
-- Website: https://assembensalah.com  
-- GitHub: https://github.com/assemsohaib  
-- LinkedIn: https://www.linkedin.com/in/assem-bensalah  
-
----
+- Simple systems that scale beat clever abstractions.
+- If I can't reproduce it, I don't trust it.
+- Clarity first: in code, in data, and in interfaces.
